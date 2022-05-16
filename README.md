@@ -2,4 +2,5 @@
 W to move forward,
 A to move left,
 S to move backwards,
-, D to move right
+D to move right
+, Space to jump
